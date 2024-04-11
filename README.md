@@ -1,1 +1,1 @@
-# students-crud-springboot-operations
+# students-springboot-crud-operations
